@@ -1,4 +1,5 @@
 🧪 Week 1 – Performance Assessment: Multiple Routers
+
 This assessment demonstrates my ability to configure a small subnetted network using multiple routers and various network devices in Cisco Packet Tracer. It builds on the skills developed in the Guided Practices and applies them in a more independent, hands-on scenario.
 
 ✅ Task 1 – Add and Connect Three Routers
@@ -35,6 +36,7 @@ Deliverables:
 📸 Clock rate configuration on each router
 📸 show running-config on S1 and S2 (VLANs and trunks)
 📸 DHCP IP address verification on all end devices
+
 ✅ Task 4 – Configure Static Routes and Test Connectivity
 Connect R1 G0/0/0 to the CSU-DSU using a straight-through cable.
 Configure static routes on R1, R2, and R3.
