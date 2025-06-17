@@ -3,7 +3,7 @@
 Networking Performance Assessment
 
 📌 Initial Packet Tracer File
-The initial .pkt file for the networking performance assessment has been uploaded. This file represents the starting point for the assessment tasks, including:
+The initial Week 3 Midterm Practical Internet.pkt file for the networking performance assessment has been uploaded. This file represents the starting point for the assessment tasks, including:
 
 🖧 Base device layout with routers, switches, PCs, and other end devices
 🔌 Preliminary connections between devices
