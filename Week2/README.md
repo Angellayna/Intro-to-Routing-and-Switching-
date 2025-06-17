@@ -1,4 +1,5 @@
 📘 Week 2 – InterVLAN Routing & Dynamic Routing Protocols
+
 🗓️ Overview
 In Week 2 of my Intro to Routing and Switching project, I expanded on the foundational skills from Week 1 by implementing InterVLAN routing and configuring dynamic routing protocols. This week’s focus was on enabling communication between VLANs and automating route discovery across multiple routers.
 
